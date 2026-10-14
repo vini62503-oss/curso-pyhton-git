@@ -12,4 +12,5 @@ print(f"A soma é: {soma}")
 -print("Dia 6 - Meu projeto esta evoluindo!")
 print("Estou trabalhando na branch teste!")
 print("Versao B")
+print("Versão A")
 
