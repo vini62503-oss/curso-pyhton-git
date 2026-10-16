@@ -13,4 +13,5 @@ print(f"A soma é: {soma}")
 print("Estou trabalhando na branch teste!")
 print("Versao B")
 print("Versão A")
+print("Aprendendo branches no Git")
 
