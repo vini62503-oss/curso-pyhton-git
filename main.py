@@ -14,4 +14,11 @@ print("Estou trabalhando na branch teste!")
 print("Versao B")
 print("Versão A")
 print("Aprendendo branches no Git")
+print("Versao B alteração principal")
+print("Versao A alteracao principal")
+print("Praticando Git - dia 16")
+
+
+
+
 
