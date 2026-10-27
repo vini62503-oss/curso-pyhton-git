@@ -19,6 +19,8 @@ print("Versao A alteracao principal")
 print("Praticando Git - dia 16")
 print("Praticando Git e GitHub - dia 17")
 print("Versão principal do projeto")
+print("Versão da branch dia 19")
+
 
 
 
